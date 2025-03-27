@@ -1,4 +1,4 @@
-# Курс "Y_LAB"
+# Курс "Интенсив React (I поток)" (Y_LAB University)
 
 ---
 
